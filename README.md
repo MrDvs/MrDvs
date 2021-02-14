@@ -1,0 +1,3 @@
+- 👋 Hi, My name is Dennis
+- 🎓 I'm a Software Engineering student
+- 📫 You can reach me at info@dennisvanschie.com
